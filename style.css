@@ -1,0 +1,38 @@
+body
+{
+  background-size: cover;
+}
+
+.heading
+{
+  width: 100%;
+  text-align: center;
+}
+
+.heading button
+{
+    float: right;
+    border-color: aliceblue;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.instructions
+{
+  text-align: left;
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  bottom: 0;
+  line-height: 1px;
+  text-align: center;
+  background-color: rgb(230, 230, 230);
+  color: rgb(98, 98, 98);
+  width: 100%;
+  font-size: 18px;
+}
